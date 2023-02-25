@@ -18,6 +18,11 @@ public class RegisterTest extends Base {
 		log.info("verifyRegisteringWithAllFields");
 
 	}
-	
+
+	@Test
+	public void verifyRegisteringWithoutFields() {
+		log.infoverifyRegisteringWithoutFields
+
+	}
 
 }
